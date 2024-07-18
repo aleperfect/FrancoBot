@@ -25,8 +25,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'Readz Aleizn';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* Readz Aleizn
- [#️⃣] *WA:* wa.me/51992621701
+ [🤴🏻] *Prop.:* 𝐅𝐑𝐀𝐍𝐂𝐎 𝗕𝗢𝗧
+
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
@@ -56,7 +56,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY` },
+    document: { url: `https://www.instagram.com/707_franco_28` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -65,13 +65,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        mediaUrl: "https://www.instagram.com/707_franco_28",
         mediaType: 2,
         previewType: "pdf",
         title: "Readz Aleizn",
         body: "Readz Aleizn",
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        sourceUrl: "https://www.instagram.com/707_franco_28",
       },
     },
     caption: info,
