@@ -7,7 +7,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const buttonMessage= {
     'document': {url: `https://www.instagram.com/707_franco_28`},
     'mimetype': `application/${document}`,
-    'fileName': `Readz Aleizn`, 
+    'fileName': `FRANCO BOT`, 
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
@@ -17,7 +17,7 @@ const handler = async (m, {conn, usedPrefix}) => {
         'mediaUrl': 'https://www.instagram.com/707_franco_28',
         'mediaType': 2,
         'previewType': 'pdf',
-        'title': 'Readz Aleizn',
+        'title': 'FRANCO BOT',
         'body': wm,
         'thumbnail': imagen1,
         'sourceUrl': 'https://www.instagram.com/707_franco_28'}},

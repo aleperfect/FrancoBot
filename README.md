@@ -1,5 +1,5 @@
 
-### `—◉ 👑 ¡Hola! ALEIZN-MD?, CONTACTAME 👑`
+### `—◉ 👑 ¡Hola! FRANCO-MD?, CONTACTAME 👑`
 <a href="http://wa.me/++569727731968" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
@@ -22,7 +22,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/ALEIZN/Propio
+git clone https://github.com/FRANCO/Propio
 ```
 
 ```bash

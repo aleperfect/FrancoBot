@@ -22,7 +22,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'Readz Aleizn';
+  const wm = 'FRANCO BOT';
   const info = ` _*< INFO - ESTADO />*_
 
  [🤴🏻] *Prop.:* 𝐅𝐑𝐀𝐍𝐂𝐎 𝗕𝗢𝗧
@@ -68,8 +68,8 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://www.instagram.com/707_franco_28",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
-        body: "Readz Aleizn",
+        title: "FRANCO BOT",
+        body: "FRANCO BOT",
         thumbnail: imagen1,
         sourceUrl: "https://www.instagram.com/707_franco_28",
       },
