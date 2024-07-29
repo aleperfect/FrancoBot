@@ -25,7 +25,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'FRANCO BOT';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* 𝐅𝐑𝐀𝐍𝐂𝐎 𝗕𝗢𝗧
+ [🤴🏻] *Prop.:* Nitro Bot! 
 
 
  [💡] *Ping:* ${rtime}

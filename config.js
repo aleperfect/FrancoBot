@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['+569727731968', '👑 ��𝐑��𝐎 ��� - Creador 👑', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ��� 💫', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ��� 💫', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ��� 💫', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ��� 💫', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ��� 💫', true],
-  ['+569727731968', '💫��𝐑��𝐎 ��� 💫', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ��� 💫', false],
-  ['+569727731968', '💫 ��𝐑��𝐎 ���💫', true],
-  ['+569727731968', '💫 ��𝐑��𝐎 ���¨💫', true],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'], 
-  ['+569727731968'],  
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'],
-  ['+569727731968'], 
-  ['+569727731968'], 
-  ['+569727731968']
+  ['+56972773196', '👑 Nitro Bot! - Creador 👑', true],
+  ['+56972773196', '💫 Nitro Bot! 💫', true],
+  ['+56972773196', '💫 Nitro Bot! 💫', true],
+  ['+56972773196', '💫 Nitro Bot! 💫', true],
+  ['+56972773196', '💫 Nitro Bot! 💫', true],
+  ['+56972773196', '💫 Nitro Bot! 💫', true],
+  ['+56972773196', '💫Nitro Bot! 💫', true],
+  ['+56972773196', '💫 Nitro Bot! 💫', false],
+  ['+56972773196', '💫 Nitro Bot!💫', true],
+  ['+56972773196', '💫 Nitro Bot!¨💫', true],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'], 
+  ['+56972773196'],  
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'],
+  ['+56972773196'], 
+  ['+56972773196'], 
+  ['+56972773196']
 ];
 
-global.suittag = ['+569727731968'];
-global.prems = ['+569727731968'];
+global.suittag = ['+56972773196'];
+global.prems = ['+56972773196'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '��𝐑��𝐎 ���';
-global.wm = '��𝐑��𝐎 ���';
-global.titulowm = '��𝐑��𝐎 ���';
-global.titulowm2 = `��𝐑��𝐎 ���`
-global.igfg = '��𝐑��𝐎 ���';
+global.author = 'Nitro Bot!';
+global.wm = 'Nitro Bot!';
+global.titulowm = 'Nitro Bot!';
+global.titulowm2 = `Nitro Bot!`
+global.igfg = 'Nitro Bot!';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n��𝐑��𝐎 ��� 🤖`;
-global.gt = '��𝐑��𝐎 ��� 🤖';
-global.mysticbot = '��𝐑��𝐎 ��� 🤖';
+global.wm2 = `${dia} ${fecha}\nNitro Bot! 🤖`;
+global.gt = 'Nitro Bot! 🤖';
+global.mysticbot = 'Nitro Bot! 🤖';
 global.md = 'https://www.instagram.com/707_franco_28';
 global.mysticbot = 'https://www.instagram.com/707_franco_28';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '+569727731968';
+global.nomorown = '+56972773196';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

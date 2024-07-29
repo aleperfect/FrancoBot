@@ -1,7 +1,7 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `*𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝐅𝐑𝐀𝐍𝐂𝐎 𝗕𝗢𝗧*
+  const text = `*𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 Nitro Bot! *
 
 *Para mas informacion acerca del bot contactame*`.trim();
   const buttonMessage= {
